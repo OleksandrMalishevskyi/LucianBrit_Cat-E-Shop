@@ -1,0 +1,14 @@
+version: 1
+services:
+  - name: backend
+    buildCommand: npm run build
+    startCommand: npm run start:backend
+    env:
+      - key: NODE_ENV
+        value: production
+  - name: frontend
+    buildCommand: cd frontend && npm install --force && npm run build
+    startCommand: npm run start:frontend
+    env:
+      - key: NODE_ENV
+        value: production
