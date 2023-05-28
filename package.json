@@ -4,7 +4,9 @@
   "description": "LucianBrit_Cat-E-Shop",
   "main": "index.js",
   "scripts": {
-    "start": "npm run start:frontend & npm run start:backend",
+    "build": "cd backend && npm install && cd ../frontend && npm instal && npm run build",
+    "start": "node backend/server.js",
+    "dev": "npm run start:frontend & npm run start:backend",
     "start:frontend": "cd frontend && npm start",
     "start:backend": "cd backend && npm start"
   },
