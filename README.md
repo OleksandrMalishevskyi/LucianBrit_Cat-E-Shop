@@ -1,8 +1,10 @@
+
 # LucianBrit_Cat-E-Shop
 E-comerce shop for cats, maked with React Node MongoBD
 
 [Link](https://cats-e-shop.onrender.com/) https://cats-e-shop.onrender.com
-
-
-![Описание изображения](../../pictures/Cats-Shop/startpage.png)
-
+![startpage](https://github.com/OleksandrMalishevskyi/LucianBrit_Cat-E-Shop/assets/80953884/d9aecbbe-66ec-4e61-87ec-750e6e207989)
+![Uploading 4.png…]()
+![Uploading 3.png…]()
+![Uploading 2.png…]()
+![Uploading 1.png…]()
