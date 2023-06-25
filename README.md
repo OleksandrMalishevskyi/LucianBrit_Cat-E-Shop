@@ -11,3 +11,4 @@ E-comerce shop for cats, maked with React Node MongoBD
 ![1](https://github.com/OleksandrMalishevskyi/LucianBrit_Cat-E-Shop/assets/80953884/68451a29-52d2-4af5-a3ff-8bc33475dd16)
 
 
+![2](https://github.com/OleksandrMalishevskyi/LucianBrit_Cat-E-Shop/assets/80953884/b9e9705a-6f92-4737-bab5-8ac52e5ee2b4)
