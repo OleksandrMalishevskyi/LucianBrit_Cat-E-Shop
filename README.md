@@ -1,23 +1,19 @@
-
 # LucianBrit_Cat-E-Shop
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=BonX-tNfQS8&t=527s&ab_channel=OleksandrMalishevskyi" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/BonX-tNfQS8/0.jpg)](https://www.youtube.com/watch?v=BonX-tNfQS8)
 
-E-comerce shop for cats, maked with React Node MongoBD
+E-commerce shop for cats, made with React, Node.js, and MongoDB.
 
-[Link](https://cats-e-shop.onrender.com/) https://cats-e-shop.onrender.com
+[Link to the website](https://cats-e-shop.onrender.com/)
 
+## Screenshots
 
-![startpage](https://github.com/OleksandrMalishevskyi/LucianBrit_Cat-E-Shop/assets/80953884/d9aecbbe-66ec-4e61-87ec-750e6e207989)
+![Start Page](https://github.com/OleksandrMalishevskyi/LucianBrit_Cat-E-Shop/raw/main/assets/80953884/d9aecbbe-66ec-4e61-87ec-750e6e207989.png)
 
+![Screenshot 1](https://github.com/OleksandrMalishevskyi/LucianBrit_Cat-E-Shop/raw/main/assets/80953884/68451a29-52d2-4af5-a3ff-8bc33475dd16.png)
 
-![1](https://github.com/OleksandrMalishevskyi/LucianBrit_Cat-E-Shop/assets/80953884/68451a29-52d2-4af5-a3ff-8bc33475dd16)
+![Screenshot 2](https://github.com/OleksandrMalishevskyi/LucianBrit_Cat-E-Shop/raw/main/assets/80953884/b9e9705a-6f92-4737-bab5-8ac52e5ee2b4.png)
 
+![Screenshot 3](https://github.com/OleksandrMalishevskyi/LucianBrit_Cat-E-Shop/raw/main/assets/80953884/ca9e965a-9128-4061-882d-358984c09fd0.png)
 
-![2](https://github.com/OleksandrMalishevskyi/LucianBrit_Cat-E-Shop/assets/80953884/b9e9705a-6f92-4737-bab5-8ac52e5ee2b4)
-
-
-![3](https://github.com/OleksandrMalishevskyi/LucianBrit_Cat-E-Shop/assets/80953884/ca9e965a-9128-4061-882d-358984c09fd0)
-
-
-![4](https://github.com/OleksandrMalishevskyi/LucianBrit_Cat-E-Shop/assets/80953884/d123a679-207a-4947-be30-f6141dcfa0ec)
+![Screenshot 4](https://github.com/OleksandrMalishevskyi/LucianBrit_Cat-E-Shop/raw/main/assets/80953884/d123a679-207a-4947-be30-f6141dcfa0ec.png)
